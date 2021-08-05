@@ -1,0 +1,11 @@
+FOR:
+Es un bucle con sintaxis unica nos sirve para crear un ciclo en el cual necesitemos resolver hasta llegar al valor "false".
+
+&&:
+Es un operador logico que evaslua dos posibilidades, si son iguales nos devuelve "true" y si alguna es diferente nos devuelve "false".
+
+||:
+Este operador logico es el "OR" y nos sirve para determiar expresiones, si una o mas son verdadeas devolvera "true" sino nos devolvera "false".
+
+!:
+Este operador es el "not" y nos permitira devolver el valor booleano opuesto de lo que se le pasa.

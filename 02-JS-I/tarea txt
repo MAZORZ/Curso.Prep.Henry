@@ -1,0 +1,21 @@
+VARIABLES:
+Una variable es una forma de almacenar todo tipo de datos que vamos a usar luego.
+Se divide en tres categorias:
+var: son variables que se pueden modificar en cualquier momento.
+let:es muy similar a var pero se comporta diferente en los niveles de scope.
+const:esta variante es una constante y no se puede modificar.
+
+STRINGS: 
+Son cadena de caracteres, siempre se usan "entre comillas para que funcionen"
+
+FUNCIONES:
+Son todo tipo de objetos y muy importante en JS ya que nos permiten invocarlas.
+RETURN:es un tipo de funcion que nos permite retornar la funcion que estamos invocando.
+
+ARGUMENTOS: Son los datos que vamos a colocar entre parentesis dentro de la funcion y nos permiten agregar valores predeterminados a la funcion.
+
+IF:
+If es un control de flujo y lo vamos a usar cuando necesitemos que nos retorne "true" o "false".
+
+BOOLEANOS:
+Estos vienen del viejo lenguaje de las computadoras y se utilizan para darle un verdadero o falso al control que estemos ejecutando.
