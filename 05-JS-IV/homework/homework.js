@@ -49,7 +49,7 @@ function eliminarPropiedad(objeto, unaPropiedad) {
   // tip: tenes que usar bracket notation
   // Devuelve el objeto
   // Tu código:
-  delete objeto[propiedad];
+  delete objeto[unaPropiedad];
 
   return objeto;
 }
@@ -62,7 +62,7 @@ function nuevoUsuario(nombre, email, password) {
     nombre: nombre,
     email: email,
     password: password
-  };
+  }
 
   return obj;
   
@@ -105,7 +105,7 @@ function actualizarPassword(usuario, nuevaPassword) {
   // Reemplaza la contraseña existente en el objeto "usuario" con el valor de "nuevagPassword"
   // Devuelve el objeto
   // Tu código:
-  suario.password = nuevaPassword;
+  usuario.password = nuevaPassword;
   return usuario;
 }
 
@@ -114,9 +114,13 @@ function agregarAmigo(usuario, nuevoAmigo) {
   // Agrega "nuevoAmigo" al final de ese array
   // Devuelve el objeto "usuario"
   // // Tu código:
-  usuario.amigos.push(nuevoAmigo);
-
-  return usuario;
+  var user = {
+      amigos: ['jorge', 'luciano']
+     }
+    usuario.amigos.push(nuevoAmigo);
+  
+    return usuario;
+  
   }
 
 function pasarUsuarioAPremium(usuarios) {

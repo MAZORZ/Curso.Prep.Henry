@@ -1,0 +1,15 @@
+Objetos:
+Los objetos son contenedores de mucha informacion o coleccion de propiedades pero sobre una sola cosa, siempre van encerrados entre llaves{}
+Propiedades:
+Es una asociacion entre un nombre clave y un valor.
+
+Métodos:
+Son las funciones guardadas en un objeto.
+Bucle for..in:
+Un bucle for..in se utiliza para repetir una o mas instrucciones una determinada cantidad de veces.
+
+Notación de puntos vs notación de corchetes:
+La notacion de puntos es mas facil leer y escribir, pero la notacion de corchetes nos permite tener acceso a propiedades con caracteres especiales y uso de variables.
+
+
+
