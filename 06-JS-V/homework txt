@@ -1,0 +1,6 @@
+Prototype:
+Son mecanismos en el cual los objetos heredan caracteristicas entre si.
+
+
+ _Constructors_ (de Clases):
+ Es una funcion constructora que define metodos y propiedades y aunque parece una funcion no lo es ya que no retorna ningun valor.
